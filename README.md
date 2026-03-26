@@ -1,4 +1,4 @@
-# Qode Take-home Assignment – Photo Upload and Comment App
+# Qode Assignment – Photo Upload and Comment App
 
 ## Overview
 A small full-stack web application allows users to:

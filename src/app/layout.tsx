@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Qode Photo Upload App",
-  description: "Take-home assignment",
+  description: "Photo upload and comment app",
 };
 
 export default function RootLayout({

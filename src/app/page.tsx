@@ -80,7 +80,7 @@ export default function HomePage() {
 
   async function handleUpload() {
     if (!selectedFile) {
-      message.warning("Please choose an image first.");
+      message.warning("Please choose an image.");
       return;
     }
 
